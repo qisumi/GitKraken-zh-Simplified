@@ -1,6 +1,14 @@
 # GitKraken 简体中文翻译
 
-[GitKraken](https://www.gitkraken.com/) 简体中文翻译补丁，主要将[这个项目](https://github.com/rogeraabbccdd/GitKraken-zh-tw)的繁体中文翻译简体化，目前还未完全完成。
+[GitKraken](https://www.gitkraken.com/) 简体中文翻译补丁，主要将[这个项目](https://github.com/rogeraabbccdd/GitKraken-zh-tw)的繁体中文翻译简体化，目前还未完全完成。主要做出如下修改：
+
+1. 将繁体文字简体化
+2. 将部分的原作者符合繁体表达的词组进行简体化，例如：
+   1. submit --> 送出 --> 提交
+   2. custom --> 自订 --> 自定义
+   3. file --> 资料档 --> 文件
+3. 将部分的词组取消翻译，例如：
+   1. Hooks --> 拉钩 --> Hooks
 
 ## 使用方法
 
